@@ -55,7 +55,3 @@ https://jolly-syrniki-126572.netlify.app
 ## Disclaimer
 
 This project is intended for educational and informational purposes. Financial calculations are estimates based on user-provided inputs and assumptions, not guaranteed financial outcomes or professional financial advice.
-
-## License
-
-MIT License
